@@ -10,11 +10,5 @@ Quality Evaluation: The performance of the clustering is assessed through the Si
 Efficient Implementation: The entire model is built with PyTorch, utilizing GPU acceleration to enhance the efficiency of embedding extraction and model training.
 
 
-**Skills and Technologies Used**
-Python
-PyTorch
-ResNetSimCLR
-t-SNE
-Silhouette Score
-Unsupervised Learning
-Convolutional Neural Networks (CNN)
+**Skills and Technologies Used:**
+Python, PyTorch, ResNetSimCLR, t-SNE, Silhouette Score, Unsupervised Learning, Convolutional Neural Networks (CNN)
